@@ -1,6 +1,6 @@
 package kensyu_20230330;
 import java.util.Scanner;
-//gitテスト
+//gitテスト jjj
 public class Main {
 
 	public static void main(String[] args) {

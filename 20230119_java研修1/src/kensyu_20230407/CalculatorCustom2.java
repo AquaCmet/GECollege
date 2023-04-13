@@ -4,7 +4,6 @@ public class CalculatorCustom2 extends CalculatorAdd2 implements CalculatorCusto
 
 	@Override
 	public int calcSub(int a, int b) {
-		// TODO 自動生成されたメソッド・スタブ
 		return a-b;
 	}
 
